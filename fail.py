@@ -1,0 +1,2 @@
+s = all([])
+print(s)

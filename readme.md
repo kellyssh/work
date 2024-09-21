@@ -1,0 +1,2 @@
+i = rion
+print(i)
